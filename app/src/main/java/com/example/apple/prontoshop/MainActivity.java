@@ -31,7 +31,8 @@ public class MainActivity extends AppCompatActivity {
             System.out.println(i);
         }
         // someone else fixes all my bugs.
-        // some change for gighub test;
+        
+        // test from github.
     }
 
     @Override
