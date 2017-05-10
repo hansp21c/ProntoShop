@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
         // someone else fixes all my bugs.
         
         // test1 from github.
-        // test1 from androidstudio;
+        // test2 from androidstudio;
     }
 
     @Override
